@@ -1,11 +1,11 @@
 # Ecommerce-Sales-Analysis
 
-● Utilized Kaggle API and Python to download a dataset containing nearly 10,000+ rows of sales data from a US-based 
+1. Utilized Kaggle API and Python to download a dataset containing nearly 10,000+ rows of sales data from a US-based 
 eCommerce company.
-● Processed and cleaned the data using Pandas, ensuring data integrity and consistency.
-● Loaded the cleaned data into SQL Server for efficient querying and analysis.
-● Employed SQL window functions and Common Table Expressions (CTEs) to answer key business questions and derive insights.
-● Provided actionable insights such as identifying top-performing products, analyzing sales trends, and evaluating customer 
+2. Processed and cleaned the data using Pandas, ensuring data integrity and consistency.
+3. Loaded the cleaned data into SQL Server for efficient querying and analysis.
+4. Employed SQL window functions and Common Table Expressions (CTEs) to answer key business questions and derive insights.
+5. Provided actionable insights such as identifying top-performing products, analyzing sales trends, and evaluating customer 
 purchasing behavior.
 
 # Key SQL Queries:
